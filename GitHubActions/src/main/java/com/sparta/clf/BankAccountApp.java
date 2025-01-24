@@ -7,6 +7,5 @@ public class BankAccountApp {
         myAccount.withdraw(200);
         System.out.println("Current balance: " + myAccount.getBalance());
 
-        // this is a comment
     }
 }
